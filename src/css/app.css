@@ -106,7 +106,7 @@
   }
 
   .slider {
-    @apply flex-row pl-6;
+    @apply flex-row;
   }
 
   .slider .thumbnail {
